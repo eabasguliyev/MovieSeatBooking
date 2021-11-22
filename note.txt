@@ -1,0 +1,2 @@
+local storage
+js html objects have classList property
